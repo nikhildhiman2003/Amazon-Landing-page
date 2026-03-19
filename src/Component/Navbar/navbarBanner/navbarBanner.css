@@ -1,0 +1,54 @@
+.navbarbanner{
+    background-color: #232f3e;
+    display: flex;
+    padding: 0 0 0 11px;
+    height:39px;
+    justify-content: space-between;
+    color: white;
+}
+.navbarBannerOptionsLeft{
+    padding:6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    &:hover{
+        border:1px solid;
+        border-radius:3px;
+    }}
+.optionNavbarBaner{
+    margin:10px;
+    font-size: 14px;
+    cursor: pointer;  
+    &:hover{ 
+    border-radius: 2px;
+    border: 1px solid;
+    
+         
+}
+}
+.All{
+   padding:1px;
+   font-size: 15px;
+   font-weight: 1000;
+  
+}
+.option{
+    font-size:10px;
+    
+}
+.navbarBannerOptionsRight{
+   display: flex;
+   padding: 0 0 0 5px;
+   height:39px;
+   cursor: pointer;
+   &:hover{
+    border: 1px solid;
+    border-radius: 2px;
+   }
+}
+.Fresh{
+    font-weight: 0;
+    padding: 12px;
+    font-size: 1px;
+}
