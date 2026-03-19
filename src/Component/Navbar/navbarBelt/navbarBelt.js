@@ -22,7 +22,7 @@ const NavbarBelt = () => {
             </div>
            
             <div className='navbarBeltLocationPlace'>
-                <div className='navbarBeltLocationTop'>Delivering to Mumbai 400001</div>
+                <div className='navbarBeltLocationTop'>Delivering to Dehradun 248001</div>
                 <div className='navbarBeltLocationBottom'>Update Location </div>
             </div>
         </div>
