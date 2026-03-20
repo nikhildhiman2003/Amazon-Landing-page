@@ -1,15 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
-import Navbar from './Component/Navbar/navbar';
-import Homescreen from './Screen/HomeScreen/homeScreen';
+import Navbar from './component/navbar/navbar'; 
+import HomepageScreen from './homepage/homepage-screen';
 
 function App() {
   return (
     <div className='App'>
-      <Navbar/>
-      <Homescreen/>
+      <Navbar />
+      <HomepageScreen/>      
     </div>
-  );
+  )
 }
 
 export default App;

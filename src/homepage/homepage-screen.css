@@ -1,0 +1,10 @@
+.homescreen{
+    border: 1px solid;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+ 
+
